@@ -1,0 +1,302 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Campaign Monitor Create And Send\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-03 14:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: admin/CMREST_api_key_option_page.php:70
+msgid "API KEY"
+msgstr ""
+
+#: admin/CMREST_api_key_option_page.php:112
+msgid "API Key and Client ID from Campaign Monitor"
+msgstr ""
+
+#: admin/CMREST_api_key_option_page.php:92
+msgid "API Key Settings"
+msgstr ""
+
+#: admin/CMREST_metabox.php:329
+msgid "Bounced"
+msgstr ""
+
+#: admin/CMREST_api_key_option_page.php:42 
+#: admin/CMREST_api_key_option_page.php:60
+msgid "Campaign Monitor API Keys"
+msgstr ""
+
+#. Name of the plugin
+msgid "Campaign Monitor Create And Send"
+msgstr ""
+
+#: admin/CMREST_metabox.php:233 admin/CMREST_metabox.php:291
+msgid "Campaign Name"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:64
+msgid "Campaign sending information"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:44 
+#: admin/CMREST_api_campaign_options_page.php:166
+msgid "Campaign Settings"
+msgstr ""
+
+#: admin/CMREST_campaign.php:92
+msgid "Campaign successfully drafted"
+msgstr ""
+
+#: admin/CMREST_metabox.php:302
+msgid "Cancel - move to Draft"
+msgstr ""
+
+#: admin/CMREST_ajax.php:174
+#, php-format
+msgid "Cant resolve request. Reason: %s"
+msgstr ""
+
+#: admin/CMREST_metabox.php:327
+msgid "Clicks"
+msgstr ""
+
+#: admin/CMREST_api_key_option_page.php:62
+msgid "Client ID"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:118
+msgid "Color of the call to Action Button in the E-Mail"
+msgstr ""
+
+#: admin/CMREST_metabox.php:53
+msgid "Create and send Campaign"
+msgstr ""
+
+#: admin/CMREST_metabox.php:139
+msgid "Create Campaign"
+msgstr ""
+
+#: admin/CMREST_metabox.php:234
+msgid "Created at"
+msgstr ""
+
+#: admin/CMREST_metabox.php:303
+msgid "Delete Campaign"
+msgstr ""
+
+#: admin/CMREST_metabox.php:255
+msgid "Delete draft"
+msgstr ""
+
+#: admin/CMREST_campaign.php:106
+msgid "Draft successfully scheduled or sent"
+msgstr ""
+
+#: admin/CMREST_metabox.php:231
+msgid "Drafted Campaign"
+msgstr ""
+
+#: admin/CMREST_metabox.php:120
+msgid "E-Mail Subject"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:120 
+#: admin/CMREST_api_campaign_options_page.php:127
+msgid "Footer Section to explain why E-Mail is send"
+msgstr ""
+
+#: admin/CMREST_metabox.php:331
+msgid "Forwards"
+msgstr ""
+
+#: admin/CMREST_metabox.php:236 admin/CMREST_metabox.php:294 
+#: admin/CMREST_metabox.php:335
+msgid "HTML preview"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.poppgerhard.at"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.poppgerhard.at/plugins"
+msgstr ""
+
+#: admin/CMREST_metabox.php:121
+msgid "Leave blank to use post title as subject"
+msgstr ""
+
+#: admin/CMREST_metabox.php:332
+msgid "Likes"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:107
+msgid "Logo to be added in the E-Mail."
+msgstr ""
+
+#: admin/CMREST_metabox.php:336
+msgid "Lounch Worldview"
+msgstr ""
+
+#: admin/CMREST_metabox.php:333
+msgid "Mentions"
+msgstr ""
+
+#: admin/CMREST_metabox.php:235 admin/CMREST_metabox.php:293 
+#: admin/CMREST_metabox.php:334
+msgid "Plain text preview"
+msgstr ""
+
+#: admin/CMREST_option_fields_html.php:52
+msgid "please choose"
+msgstr ""
+
+#: admin/CMREST_metabox.php:206
+msgid "Please provide valid API credentials to create and send campaigns."
+msgstr ""
+
+#. Author of the plugin
+msgid "Popp Gerhard"
+msgstr ""
+
+#: admin/CMREST_metabox.php:324
+msgid "Recipients"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:86
+msgid "Reply E-Mail"
+msgstr ""
+
+#: admin/CMREST_metabox.php:244 admin/CMREST_metabox.php:249 
+#: admin/CMREST_metabox.php:254
+msgid "Schedule Draft"
+msgstr ""
+
+#: admin/CMREST_metabox.php:292
+msgid "Scheduled at"
+msgstr ""
+
+#: admin/CMREST_metabox.php:289
+msgid "Scheduled Campaign"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:105
+msgid "Select a available Template."
+msgstr ""
+
+#: admin/CMREST_metabox.php:263
+msgid "Send a preview to"
+msgstr ""
+
+#: admin/CMREST_metabox.php:268
+msgid "Send preview"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:77
+msgid "Sender E-Mail"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:68
+msgid "Sender Name"
+msgstr ""
+
+#: admin/CMREST_metabox.php:322
+msgid "Sent Campaign"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:142
+msgid ""
+"Set the E-Mail addressor information for your campaigns, your subscriber "
+"list and the sendable post types."
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:152
+msgid "Set your E-Mails header and footer data."
+msgstr ""
+
+#. Description of the plugin
+msgid "Simply create and send E-Mail campaigns from your WordPress backend"
+msgstr ""
+
+#: admin/CMREST_metabox.php:330
+msgid "Spam complaints"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:96
+msgid "Subscriber List"
+msgstr ""
+
+#: admin/CMREST_campaign.php:120
+msgid "Successfully deleted"
+msgstr ""
+
+#: admin/CMREST_campaign.php:145
+msgid "Successfully moved to draft"
+msgstr ""
+
+#: admin/CMREST_campaign.php:132
+msgid "Successfully sent"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:102
+msgid "Template Header and Footer data"
+msgstr ""
+
+#: admin/CMREST_metabox.php:128
+msgid "Text in E-Mail"
+msgstr ""
+
+#: admin/CMREST_api_campaign_options_page.php:109
+msgid "Text on the call to Action Button in the E-Mail"
+msgstr ""
+
+#: admin/CMREST_metabox.php:124
+msgid "Title in E-Mail"
+msgstr ""
+
+#: admin/CMREST_metabox.php:325
+msgid "Total opened"
+msgstr ""
+
+#: admin/CMREST_metabox.php:326
+msgid "Unique opened"
+msgstr ""
+
+#: admin/CMREST_metabox.php:328
+msgid "Unsubscribed"
+msgstr ""
+
+#: admin/CMREST_metabox.php:207
+msgid "Update now"
+msgstr ""
+
+#: admin/CMREST_option_fields_html.php:135
+msgid "Upload image"
+msgstr ""
+
+#: admin/CMREST_metabox.php:235 admin/CMREST_metabox.php:236 
+#: admin/CMREST_metabox.php:293 admin/CMREST_metabox.php:294
+msgid "View preview"
+msgstr ""
+
+#: admin/CMREST_metabox.php:334
+msgid "View text version"
+msgstr ""
+
+#: admin/CMREST_metabox.php:335
+msgid "View web version"
+msgstr ""
+
+#: admin/CMREST_metabox.php:336
+msgid "Worldview"
+msgstr ""

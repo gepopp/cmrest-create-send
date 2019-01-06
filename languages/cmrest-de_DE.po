@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Campaign Monitor Create And Send\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-03 14:37+0000\n"
+"PO-Revision-Date: 2019-01-03 14:54+0000\n"
+"Last-Translator: Gerhard Popp <office@sewemo.eu>\n"
+"Language-Team: Deutsch\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: admin/CMREST_api_key_option_page.php:70
+msgid "API KEY"
+msgstr "API Schlüssel"
+
+#: admin/CMREST_api_key_option_page.php:112
+msgid "API Key and Client ID from Campaign Monitor"
+msgstr "API Schlüssel und Nutzer ID von Campaign Monitor"
+
+#: admin/CMREST_api_key_option_page.php:92
+msgid "API Key Settings"
+msgstr "API Schlüssel Einstellungen"
+
+#: admin/CMREST_metabox.php:329
+msgid "Bounced"
+msgstr "Unzustellbar"
+
+#: admin/CMREST_api_key_option_page.php:42 
+#: admin/CMREST_api_key_option_page.php:60
+msgid "Campaign Monitor API Keys"
+msgstr "Campaign Monitor API Schlüssel"
+
+#. Name of the plugin
+msgid "Campaign Monitor Create And Send"
+msgstr "Campaign Monitor erstellen und versenden"
+
+#: admin/CMREST_metabox.php:233 admin/CMREST_metabox.php:291
+msgid "Campaign Name"
+msgstr "Kampagnen Name"
+
+#: admin/CMREST_api_campaign_options_page.php:64
+msgid "Campaign sending information"
+msgstr "Kampagnen Versand Informationen"
+
+#: admin/CMREST_api_campaign_options_page.php:44 
+#: admin/CMREST_api_campaign_options_page.php:166
+msgid "Campaign Settings"
+msgstr "Kampagnen Einstellungen"
+
+#: admin/CMREST_campaign.php:92
+msgid "Campaign successfully drafted"
+msgstr "Entwurf erfolgreich erstellt"
+
+#: admin/CMREST_metabox.php:302
+msgid "Cancel - move to Draft"
+msgstr "Abbrechen - auf Entwurf umstellen"
+
+#: admin/CMREST_ajax.php:174
+#, php-format
+msgid "Cant resolve request. Reason: %s"
+msgstr "Kann die Anfrage nicht ausführen Grund: %s"
+
+#: admin/CMREST_metabox.php:327
+msgid "Clicks"
+msgstr "Klicks"
+
+#: admin/CMREST_api_key_option_page.php:62
+msgid "Client ID"
+msgstr "Nutzer ID"
+
+#: admin/CMREST_api_campaign_options_page.php:118
+msgid "Color of the call to Action Button in the E-Mail"
+msgstr "Button Farbe in der Aussendung"
+
+#: admin/CMREST_metabox.php:53
+msgid "Create and send Campaign"
+msgstr "Kampagne erstellen und versenden"
+
+#: admin/CMREST_metabox.php:139
+msgid "Create Campaign"
+msgstr "Kampagne ertellen"
+
+#: admin/CMREST_metabox.php:234
+msgid "Created at"
+msgstr "Erstellt am"
+
+#: admin/CMREST_metabox.php:303
+msgid "Delete Campaign"
+msgstr "Kampagne löschen"
+
+#: admin/CMREST_metabox.php:255
+msgid "Delete draft"
+msgstr "Entwurf löschen"
+
+#: admin/CMREST_campaign.php:106
+msgid "Draft successfully scheduled or sent"
+msgstr "Kampagne erfolgreich geplant oder versendet"
+
+#: admin/CMREST_metabox.php:231
+msgid "Drafted Campaign"
+msgstr "Kampagnen Entwürfe"
+
+#: admin/CMREST_metabox.php:120
+msgid "E-Mail Subject"
+msgstr "E-Mail Betreff"
+
+#: admin/CMREST_api_campaign_options_page.php:120 
+#: admin/CMREST_api_campaign_options_page.php:127
+msgid "Footer Section to explain why E-Mail is send"
+msgstr "Fusszeile mit Erklärung für den Empfänger"
+
+#: admin/CMREST_metabox.php:331
+msgid "Forwards"
+msgstr "Weiterleitungen"
+
+#: admin/CMREST_metabox.php:236 admin/CMREST_metabox.php:294 
+#: admin/CMREST_metabox.php:335
+msgid "HTML preview"
+msgstr "HTML Vorschau"
+
+#. Author URI of the plugin
+msgid "https://www.poppgerhard.at"
+msgstr "https://www.poppgerhard.at"
+
+#. URI of the plugin
+msgid "https://www.poppgerhard.at/plugins"
+msgstr "https://www.poppgerhard.at/plugins"
+
+#: admin/CMREST_metabox.php:121
+msgid "Leave blank to use post title as subject"
+msgstr "Leer lassen wenn der Beitragstitel verwendet werden soll."
+
+#: admin/CMREST_metabox.php:332
+msgid "Likes"
+msgstr "Likes"
+
+#: admin/CMREST_api_campaign_options_page.php:107
+msgid "Logo to be added in the E-Mail."
+msgstr "Logo in der E-Mail"
+
+#: admin/CMREST_metabox.php:336
+msgid "Lounch Worldview"
+msgstr "Worldview starten"
+
+#: admin/CMREST_metabox.php:333
+msgid "Mentions"
+msgstr "Erwähnungen"
+
+#: admin/CMREST_metabox.php:235 admin/CMREST_metabox.php:293 
+#: admin/CMREST_metabox.php:334
+msgid "Plain text preview"
+msgstr "Text Vorschau"
+
+#: admin/CMREST_option_fields_html.php:52
+msgid "please choose"
+msgstr "bitte wählen"
+
+#: admin/CMREST_metabox.php:206
+msgid "Please provide valid API credentials to create and send campaigns."
+msgstr "Bitte gib korrekte Schlüssel ein."
+
+#. Author of the plugin
+msgid "Popp Gerhard"
+msgstr "Popp Gerhard"
+
+#: admin/CMREST_metabox.php:324
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: admin/CMREST_api_campaign_options_page.php:86
+msgid "Reply E-Mail"
+msgstr "Antwort E-Mail"
+
+#: admin/CMREST_metabox.php:244 admin/CMREST_metabox.php:249 
+#: admin/CMREST_metabox.php:254
+msgid "Schedule Draft"
+msgstr "Geplanter Entwurf"
+
+#: admin/CMREST_metabox.php:292
+msgid "Scheduled at"
+msgstr "Geplant für"
+
+#: admin/CMREST_metabox.php:289
+msgid "Scheduled Campaign"
+msgstr "Geplante Kampagne"
+
+#: admin/CMREST_api_campaign_options_page.php:105
+msgid "Select a available Template."
+msgstr "Vorhandenes Template wählen"
+
+#: admin/CMREST_metabox.php:263
+msgid "Send a preview to"
+msgstr "Vorschau senden an"
+
+#: admin/CMREST_metabox.php:268
+msgid "Send preview"
+msgstr "Vorschau senden"
+
+#: admin/CMREST_api_campaign_options_page.php:77
+msgid "Sender E-Mail"
+msgstr "Absender E-Mail"
+
+#: admin/CMREST_api_campaign_options_page.php:68
+msgid "Sender Name"
+msgstr "Absender Name"
+
+#: admin/CMREST_metabox.php:322
+msgid "Sent Campaign"
+msgstr "Gesendete Kampagne"
+
+#: admin/CMREST_api_campaign_options_page.php:142
+msgid ""
+"Set the E-Mail addressor information for your campaigns, your subscriber "
+"list and the sendable post types."
+msgstr ""
+"Gib die Adressaten Daten, Empfänger und die Post Typen für den Versand ein."
+
+#: admin/CMREST_api_campaign_options_page.php:152
+msgid "Set your E-Mails header and footer data."
+msgstr "Gib die E-Mail Kopf und Fuß Daten ein."
+
+#. Description of the plugin
+msgid "Simply create and send E-Mail campaigns from your WordPress backend"
+msgstr ""
+"Einfaches erstellen und versenden von Kampagnen aus dem WordPress Backend"
+
+#: admin/CMREST_metabox.php:330
+msgid "Spam complaints"
+msgstr "Spam Beschwerden"
+
+#: admin/CMREST_api_campaign_options_page.php:96
+msgid "Subscriber List"
+msgstr "Empfänger Liste"
+
+#: admin/CMREST_campaign.php:120
+msgid "Successfully deleted"
+msgstr "Erfolgreich gelöscht"
+
+#: admin/CMREST_campaign.php:145
+msgid "Successfully moved to draft"
+msgstr "Erfolgreich auf Entwurf umgestellt"
+
+#: admin/CMREST_campaign.php:132
+msgid "Successfully sent"
+msgstr "Erfolgreich gesendet"
+
+#: admin/CMREST_api_campaign_options_page.php:102
+msgid "Template Header and Footer data"
+msgstr "Template Kopf und Fuß Daten"
+
+#: admin/CMREST_metabox.php:128
+msgid "Text in E-Mail"
+msgstr "E-Mail Text"
+
+#: admin/CMREST_api_campaign_options_page.php:109
+msgid "Text on the call to Action Button in the E-Mail"
+msgstr "Text auf dem Button in der E-Mail"
+
+#: admin/CMREST_metabox.php:124
+msgid "Title in E-Mail"
+msgstr "Titel in der E-Mail"
+
+#: admin/CMREST_metabox.php:325
+msgid "Total opened"
+msgstr "Gesamt geöffnet"
+
+#: admin/CMREST_metabox.php:326
+msgid "Unique opened"
+msgstr "Nutzer geöffnet"
+
+#: admin/CMREST_metabox.php:328
+msgid "Unsubscribed"
+msgstr "Abgemeldet"
+
+#: admin/CMREST_metabox.php:207
+msgid "Update now"
+msgstr "speicher"
+
+#: admin/CMREST_option_fields_html.php:135
+msgid "Upload image"
+msgstr "Bild hochladen"
+
+#: admin/CMREST_metabox.php:235 admin/CMREST_metabox.php:236 
+#: admin/CMREST_metabox.php:293 admin/CMREST_metabox.php:294
+msgid "View preview"
+msgstr "Vorschau"
+
+#: admin/CMREST_metabox.php:334
+msgid "View text version"
+msgstr "Text Version "
+
+#: admin/CMREST_metabox.php:335
+msgid "View web version"
+msgstr "Web Version"
+
+#: admin/CMREST_metabox.php:336
+msgid "Worldview"
+msgstr "Worldview"
